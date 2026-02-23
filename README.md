@@ -1,5 +1,5 @@
 ​Al-Ahliyya Amman University: Intro to IT Portfolio
-​Student: طارق محمد خميس احمد (Tariq Mohammad Khamis Ahmad)
+​Student:Tariq Mohammad Atiyeh 
 Major: Networks and Cybersecurity
 ID: 202511528
 Course: Introduction to Information Technology (A0371201) 
