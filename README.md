@@ -1,9 +1,17 @@
 ​Al-Ahliyya Amman University: Intro to IT Portfolio
-​Student:Tariq Mohammad Atiyeh 
+​Student: طارق محمد خميس احمد (Tariq Mohammad Khamis Ahmad)
 Major: Networks and Cybersecurity
 ID: 202511528
-Course: Introduction to Information Technology 
-​Project 1: PC Hardware Selection & System Architecture
+Course: Introduction to Information Technology (A0371201) 
+​
+Academic Performance: Final Result
+• ​Course Name: Introduction to Information Technology
+• ​Course Code: A0371201
+• ​Grade: A
+• ​Status: Passed
+ 
+​
+Project 1: PC Hardware Selection & System Architecture
 ​Objective: Gather information and justify component selections for a high-performance computer build. 
 ​Hardware Specifications & Justifications
 ​CPU: AMD Ryzen 5 9600X (6 Cores, 12 Threads) 
@@ -80,3 +88,4 @@ Exercise 2: Geometric Calculations
 ​Portfolio Summary
 • ​Project 1 Cost: 1,395 USD (Approximately 989.06 Jordanian Dinar).
 • ​Note: Some hardware parts may not be available locally in Jordan.
+
